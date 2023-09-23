@@ -14,4 +14,8 @@ class TelaMensagemActivity : AppCompatActivity() {
     fun enviaMensagem(){
 
     }
+
+    fun enviaMensagemVideo(){
+
+    }
 }
